@@ -62,7 +62,7 @@ User Authentication → JWT Token Generation → Secure API Access → Business 
 ⚙️ Setup Instructions
 
 1️⃣ Clone Repository  
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Pinkuu108/Library_Management_System_APP.git
 
 2️⃣ Open Project  
 Import into IntelliJ IDEA / Eclipse / Spring Tool Suite
