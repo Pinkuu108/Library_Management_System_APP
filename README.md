@@ -42,7 +42,7 @@ API Testing
 - Postman  
 
 📂 Project Structure
-
+```
 Library_Management_System_APP/
 ├── configurations/
 ├── controller/
@@ -54,7 +54,7 @@ Library_Management_System_APP/
 ├── domain/
 ├── event/
 └── exception/
-
+```
 ⚙️ Application Workflow
 
 User Authentication → JWT Token Generation → Secure API Access → Business Logic Processing → Database Operations → API Responses
@@ -62,17 +62,18 @@ User Authentication → JWT Token Generation → Secure API Access → Business 
 ⚙️ Setup Instructions
 
 1️⃣ Clone Repository  
+```
 git clone https://github.com/Pinkuu108/Library_Management_System_APP.git
-
+```
 2️⃣ Open Project  
 Import into IntelliJ IDEA / Eclipse / Spring Tool Suite
 
 3️⃣ Configure Database (application.properties)
-
+```
 spring.datasource.url=jdbc:mysql://localhost:3306/your_database  
 spring.datasource.username=your_username  
 spring.datasource.password=your_password  
-
+```
 4️⃣ Configure JWT & Security (if needed)
 
 jwt.secret=your_secret_key  
