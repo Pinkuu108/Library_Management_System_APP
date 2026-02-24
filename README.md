@@ -3,7 +3,7 @@
 Library Management System is a Spring Boot backend application designed to manage books, users, subscriptions, loans, payments, fines, reservations, and reviews.  
 The project follows a RESTful API architecture with secure authentication and role-based access control.
 
-✨ Features
+✨Features
 
 ✔ Secure JWT-based Authentication & Authorization  
 ✔ Role-Based Access Control (Admin / User)  
